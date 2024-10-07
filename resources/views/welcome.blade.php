@@ -40,9 +40,11 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
+            
             position: relative;
             /* color: white; */
             padding-top: 170px;
+            padding-bottom: 170px;
 
         }
 
