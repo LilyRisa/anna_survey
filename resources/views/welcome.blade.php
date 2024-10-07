@@ -40,7 +40,7 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
-            
+
             position: relative;
             /* color: white; */
             padding-top: 170px;
@@ -315,9 +315,9 @@
                 <div class="rightTab">
                     <select id="dropdown" name="currentPos" class="dropdown">
                         <option disabled value>Chọn một giá trị</option>
-                        <option value="bar">Tại quầy thu ngân</option>
-                        <option value="card">Tờ rơi</option>
-                        <option value="ads">Quảng cáo facebook, google, tiktok</option>
+                        <option value="Tại quầy thu ngân">Tại quầy thu ngân</option>
+                        <option value="Tờ rơi">Tờ rơi</option>
+                        <option value="Quảng cáo facebook, google, tiktok">Quảng cáo facebook, google, tiktok</option>
                         <option value="none">Khác</option>
                     </select>
                 </div>
