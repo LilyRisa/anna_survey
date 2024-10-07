@@ -42,6 +42,7 @@
             height: 100vh;
             position: relative;
             /* color: white; */
+            padding-top: 170px;
 
         }
 
